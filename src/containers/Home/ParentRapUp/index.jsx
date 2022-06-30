@@ -1,7 +1,7 @@
 import React from "react"
 import BannerSec from "../BannerSec"
-import OurMentors from "../OurMentors"
-import HowToParticipateSect from "../How_to_Participate_Sect"
+// import OurMentors from "../OurMentors"
+// import HowToParticipateSect from "../How_to_Participate_Sect"
 import HowItWorks from "../HowItWorks"
 
 const ParentRapUp = ({allData , img}) => {
@@ -9,9 +9,9 @@ const ParentRapUp = ({allData , img}) => {
         <>
             
             <BannerSec />
-            <OurMentors data={allData[0]?.OurMentors} />
+            {/* <OurMentors data={allData[0]?.OurMentors} /> */}
             
-            <HowToParticipateSect img={img} data={allData[0]?.How_to_Participate_Sect} />
+            {/* <HowToParticipateSect img={img} data={allData[0]?.How_to_Participate_Sect} /> */}
 
             <HowItWorks data={allData[0]?.HowItWorks} />
         </>
