@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9fbcc973.chunk.css",
+    "main.js": "./static/js/main.7cd56af9.chunk.js",
+    "main.js.map": "./static/js/main.7cd56af9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.99a7ed87.js",
+    "runtime-main.js.map": "./static/js/runtime-main.99a7ed87.js.map",
+    "static/css/2.adfcc209.chunk.css": "./static/css/2.adfcc209.chunk.css",
+    "static/js/2.3d682b34.chunk.js": "./static/js/2.3d682b34.chunk.js",
+    "static/js/2.3d682b34.chunk.js.map": "./static/js/2.3d682b34.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.adfcc209.chunk.css.map": "./static/css/2.adfcc209.chunk.css.map",
+    "static/css/main.9fbcc973.chunk.css.map": "./static/css/main.9fbcc973.chunk.css.map",
+    "static/js/2.3d682b34.chunk.js.LICENSE.txt": "./static/js/2.3d682b34.chunk.js.LICENSE.txt",
+    "static/media/0faq.07ec1f2a.png": "./static/media/0faq.07ec1f2a.png",
+    "static/media/style.css": "./static/media/themifyd41d.9bad9444.eot",
+    "static/media/about10.b6594fd3.png": "./static/media/about10.b6594fd3.png",
+    "static/media/cat1.b745da49.svg": "./static/media/cat1.b745da49.svg",
+    "static/media/cat2.3e1746e9.svg": "./static/media/cat2.3e1746e9.svg",
+    "static/media/cat3.9ec3c797.svg": "./static/media/cat3.9ec3c797.svg",
+    "static/media/cat4.bc3d082e.svg": "./static/media/cat4.bc3d082e.svg",
+    "static/media/cat5.922b572f.svg": "./static/media/cat5.922b572f.svg",
+    "static/media/cat6.332e32af.svg": "./static/media/cat6.332e32af.svg",
+    "static/media/h1.e10b6926.svg": "./static/media/h1.e10b6926.svg",
+    "static/media/h2.9b959d4e.svg": "./static/media/h2.9b959d4e.svg",
+    "static/media/h3.47499cae.svg": "./static/media/h3.47499cae.svg",
+    "static/media/h4.e58ca512.svg": "./static/media/h4.e58ca512.svg",
+    "static/media/locker.e63ba43c.png": "./static/media/locker.e63ba43c.png",
+    "static/media/massage.6499d5f3.svg": "./static/media/massage.6499d5f3.svg",
+    "static/media/mint-img.19f56190.png": "./static/media/mint-img.19f56190.png",
+    "static/media/nft1.b3555b06.png": "./static/media/nft1.b3555b06.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99a7ed87.js",
+    "static/css/2.adfcc209.chunk.css",
+    "static/js/2.3d682b34.chunk.js",
+    "static/css/main.9fbcc973.chunk.css",
+    "static/js/main.7cd56af9.chunk.js"
+  ]
+}
