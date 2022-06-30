@@ -169,7 +169,7 @@ const ExploreNFTsContainer = () => {
                       // text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum risus, non suscipit arcu. Quisque aliquam posuere tortor, sit amet convallis nunc in."
                     /> : Array(8).fill().map((_i, key) => <PreloaderMintItem key={key} />) : <MsgAlert
                         // text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum risus, non suscipit arcu. Quisque aliquam posuere tortor, sit amet convallis nunc in."
-                        title="Wait for seconds, It will take long time to take data from the Blockchain." />}
+                        title="Wait for seconds, It will take long time to get data from the Blockchain." />}
           </div>
         </div>
       </section>

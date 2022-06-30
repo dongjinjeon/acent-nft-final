@@ -99,7 +99,7 @@ const App = () => {
         document.getElementById("root").style.position = "relative"
         return <MsgAlert
                 // text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum risus, non suscipit arcu. Quisque aliquam posuere tortor, sit amet convallis nunc in."
-                title="Wait for seconds, It will take long time to take data from the Blockchain. " />
+                title="Wait for seconds, It will take long time to get data from the Blockchain. " />
       }
 
       if(mktContract) {
@@ -148,7 +148,7 @@ const App = () => {
         document.getElementById("root").style.position = "relative"
         return <MsgAlert
                 // text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum risus, non suscipit arcu. Quisque aliquam posuere tortor, sit amet convallis nunc in."
-                title="Wait for seconds, It will take long time to take data from the Blockchain." />
+                title="Wait for seconds, It will take long time to get data from the Blockchain." />
       }
 
       collectionCtx.setNftIsLoading(false);
